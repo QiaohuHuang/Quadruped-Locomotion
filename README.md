@@ -1,4 +1,4 @@
-# Group 26: Quadruped Robot Locomotion
+# Quadruped Robot Locomotion
 
 ## Project Overview
 This project focuses on developing locomotion policies for a quadruped robot using reinforcement learning. An evolutionary algorithm is used to generate a basic periodic movement. Based on this basic periodic movement, a policy that adds compensatory adjustments to the movement is learned using reinforcement learning. The policy is tested and trained in custom OpenAI Gymnasium environments using the PyBullet simulator.
